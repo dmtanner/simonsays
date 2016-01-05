@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Simon Says</string>
+    <string name="app_id">222016704889</string>
+    <string name="achievement_button_click">CgkI-aLoibsGEAIQAQ</string>
+    <string name="achievement_sequence_of_10">CgkI-aLoibsGEAIQBQ</string>
+    <string name="leaderboard_most_clicks">CgkI-aLoibsGEAIQAg</string>
+    <string name="leaderboard_longest_sequence">CgkI-aLoibsGEAIQBA</string>
+        <string name="begin_game">New Game</string>
+    <string name="view_achievements">View Achievements</string>
+    <string name="view_leaderboards">View Leaderboard</string>
+</resources>

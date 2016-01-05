@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_begin"
+        android:icon="@drawable/ic_play_circle_outline"
+        android:title="@string/begin_game"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_view_achievements"
+        android:title="@string/view_achievements"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_view_leaderboards"
+        android:title="@string/view_leaderboards"
+        app:showAsAction="never"/>
+
+</menu>
